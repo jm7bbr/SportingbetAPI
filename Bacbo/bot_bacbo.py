@@ -247,3 +247,5 @@ class WebScraper:
 
 scraper = WebScraper()
 scraper.start()
+
+pip install -r .\requirements.txt
